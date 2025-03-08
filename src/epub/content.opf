@@ -35,24 +35,22 @@
 		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">This is a three-book set of George MacDonald’s theological writings, touching on a wide range of topics, that are meant to shape the perception and life of the Christian disciple.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; was a Scottish writer who wrote influential works of fantasy, such as &lt;a href="https://standardebooks.org/ebooks/george-macdonald/phantastes"&gt;Phantastes&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin"&gt;The Princess and the Golin&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind"&gt;At the Back of the North Wind&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/george-macdonald/lilith"&gt;Lilith&lt;/a&gt;. He was also a mentor to &lt;a href="https://standardebooks.org/ebooks/lewis-carroll"&gt;Lewis Carroll&lt;/a&gt;, helping him to publish &lt;a href="https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel"&gt;Alice’s Adventures in Wonderland&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; was a Scottish writer who wrote influential works of fantasy, such as &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald/phantastes"&gt;Phantastes&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin"&gt;The Princess and the Golin&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind"&gt;At the Back of the North Wind&lt;/a&gt;&lt;/i&gt;, and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald/lilith"&gt;Lilith&lt;/a&gt;&lt;/i&gt;. He was also a mentor to &lt;a href="https://standardebooks.org/ebooks/lewis-carroll"&gt;Lewis Carroll&lt;/a&gt;, helping him to publish &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel"&gt;Alice’s Adventures in Wonderland&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;However, he was also a Christian minister, and wrote several theological works, including Unspoken Sermons, which was published in three volumes from 1867–1889. In it, George MacDonald lays out his vision of God. For MacDonald, God is fundamentally a loving father to all humanity, working to purify people from their sin so that they are as good as God is (see “The Consuming Fire” and “Justice”). A consequence of this is that all people will be saved, making MacDonald part of the Universal Reconciliation stream of Christian theology. This was a controversial teaching in the churches where he preached, and he suffered for it, at one point losing half his stipend.&lt;/p&gt;
 			&lt;p&gt;In other sermons, MacDonald also deals with more practical topics as well, such as riches (“The Heart with the Treasure”), prayer (“The Word of Jesus on Prayer”), and wrestling with spiritual doubt (“The Voice of Job”).&lt;/p&gt;
 			&lt;p&gt;This work was deeply influential on &lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt;, who said regarding it, “My own debt to this book is almost as great as one man can owe to another: and nearly all serious inquirers to whom I have introduced it acknowledge that it has given them great help—sometimes indispensable help toward the very acceptance of the Christian faith.” As per most modern editions, the Standard Ebooks edition collects all three volumes in one.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>https://gutenberg.org/ebooks/9057</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/9057</dc:source>
 		<dc:source>https://archive.org/details/unspokensermonsf0001macd</dc:source>
 		<dc:source>https://archive.org/details/unspokensermonsf0000macd</dc:source>
 		<dc:source>https://archive.org/details/1889epeaapteraun00macduoft</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_unspoken-sermons</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">George MacDonald</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_MacDonald</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n78096948</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -60,7 +58,7 @@
 		<dc:contributor id="artist">Vincenzo Camuccini</dc:contributor>
 		<meta property="file-as" refines="#artist">Camuccini, Vincenzo</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vincenzo_Camuccini</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79030518.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79030518</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jonathan Ingram</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Ingram, Jonathan</meta>
