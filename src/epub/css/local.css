@@ -65,6 +65,7 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
+}
 	/* End full-page epigraphs */
 
 	[epub|type~="z3998:verse"] p{
