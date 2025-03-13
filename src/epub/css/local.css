@@ -93,3 +93,7 @@ section[epub|type~="epigraph"] > *{
 		text-indent: -1em;
 	}
 }
+
+q{
+	font-style: italic;
+}
