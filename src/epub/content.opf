@@ -45,7 +45,7 @@
 		<dc:source>https://archive.org/details/unspokensermonsf0001macd</dc:source>
 		<dc:source>https://archive.org/details/unspokensermonsf0000macd</dc:source>
 		<dc:source>https://archive.org/details/1889epeaapteraun00macduoft</dc:source>
-		<meta property="se:production-notes">In some sermons, there were missing quotation marks that were printer's errors--i. e., the original page scans contained the error. The missing quotation marks have been added based on the best judgement of the contributor. The following sermons had missing quotations: "The Cause of Spritual Stupidity," "The Last Farthing," "Freedom," "Justice," "Righteousness."</meta>
+		<meta property="se:production-notes">In some sermons, there were missing quotation marks that were printer's errors--i. e., the original page scans contained the error. The missing quotation marks have been added based on the best judgment of the producer. The following sermons had missing quotations: "The Cause of Spiritual Stupidity," "The Last Farthing," "Freedom," "Justice," "Righteousness."</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_unspoken-sermons</meta>
