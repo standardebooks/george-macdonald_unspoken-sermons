@@ -36,6 +36,11 @@ section[epub|type~="dedication"] > *{
 	hyphens: none;
 	-epub-hyphens: none;
 }
+
+[epub|type~="epigraph"] h3{
+	font-style: normal;
+}
+
 /* End all epigraphs */
 
 /* Full-page epigraphs */
