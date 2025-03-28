@@ -145,3 +145,9 @@ p span.i2{
 q{
 	font-style: italic;
 }
+
+@namespace xml "http://www.w3.org/XML/1998/namespace";
+
+blockquote[xml|lang]{
+	font-style: italic;
+}
