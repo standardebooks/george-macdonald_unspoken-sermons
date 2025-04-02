@@ -43,50 +43,15 @@ section[epub|type~="dedication"] > *{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
 [epub|type~="epigraph"] cite{
 	font-style: normal;
 	font-variant: small-caps;
 	margin-top: 1em;
 }
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
-}
 /* End all epigraphs */
-
-/* Epigraphs in section headers */
-article > header [epub|type~="epigraph"],
-section > header [epub|type~="epigraph"]{
-	display: inline-block;
-	margin: auto;
-	max-width: 80%;
-	text-align: initial;
-}
-
-article > header [epub|type~="epigraph"] + *,
-section > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
-
-@supports(display: table){
-	article > header [epub|type~="epigraph"],
-	section > header [epub|type~="epigraph"]{
-		display: table;
-	}
-}
-/* End epigraphs in section headers */
 
 header [epub|type~="epigraph"] cite{
 	font-variant: small-caps;
-}
-
-[epub|type~="epigraph"] h2{
-	font-style: normal;
 }
 
 /* Full-page epigraphs */
