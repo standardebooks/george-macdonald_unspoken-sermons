@@ -2,6 +2,12 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+@font-face{
+	font-family: "Standard Blackletter";
+	font-weight: 700;
+	src: url("../fonts/standard-blackletter.otf") format("opentype");
+}
+
 blockquote[xml|lang]{
 	font-style: italic;
 }
@@ -113,5 +119,35 @@ p span.i2{
 }
 
 q{
+	font-style: italic;
+}
+
+#dedication-1-1{
+	font-style: italic;
+	font-variant: small-caps;
+}
+
+#dedication-1-1 b{
+	font-family: "Standard Blackletter";
+	font-size: larger;
+	font-style: normal;
+	font-variant: normal;
+}
+
+#dedication-3-1 blockquote{
+	font-family: "Standard Blackletter";
+	margin-top: 1em;
+}
+
+#dedication-3-1 > p{
+	font-variant: small-caps;
+}
+
+[epub|type~="dedication"] footer{
+	margin-top: 1em;
+	text-align: initial;
+}
+
+[epub|type~="dedication"] time{
 	font-style: italic;
 }
