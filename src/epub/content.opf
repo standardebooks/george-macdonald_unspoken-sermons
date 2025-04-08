@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-macdonald/unspoken-sermons</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-04-08T16:07:21Z</dc:date>
+		<meta property="dcterms:modified">2025-04-08T16:07:21Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,21 +33,20 @@
 		<meta property="term" refines="#subject-1">sh95008501</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Spirituality</meta>
-		<dc:description id="description">A set of interlocking sermons by George MacDonald, touching on a wide range of topics, that are meant to shape the perception and life of the Christian disciple.</dc:description>
+		<dc:description id="description">George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; was a Scottish writer who wrote influential works of fantasy, such as &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald/phantastes"&gt;Phantastes&lt;/a&gt;&lt;/i&gt; and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald/at-the-back-of-the-north-wind"&gt;At the Back of the North Wind&lt;/a&gt;&lt;/i&gt;. He was also a mentor to &lt;a href="https://standardebooks.org/ebooks/lewis-carroll"&gt;Lewis Carroll&lt;/a&gt;, helping him to publish &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland/john-tenniel"&gt;Alice’s Adventures in Wonderland&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
-			&lt;p&gt;However, he was also a Christian minister, and wrote several theological works, including &lt;i&gt;Unspoken Sermons&lt;/i&gt;, which was published in three volumes from 1867–1889. In it, George MacDonald lays out his vision of God. For MacDonald, God is fundamentally a loving father to all humanity, working to purify people from their sin so that they are as good as God is (see “The Consuming Fire” and “Justice”). A consequence of this is that all people will be saved. This was a controversial teaching in the churches where he preached, and he suffered for it, at one point losing half his stipend.&lt;/p&gt;
-			&lt;p&gt;In other sermons, MacDonald also deals with more practical topics as well, such as riches (“The Heart with the Treasure”), prayer (“The Word of Jesus on Prayer”), and wrestling with spiritual doubt (“The Voice of Job”).&lt;/p&gt;
-			&lt;p&gt;This work was deeply influential on &lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt;, who said regarding it, “My own debt to this book is almost as great as one man can owe to another: and nearly all serious inquirers to whom I have introduced it acknowledge that it has given them great help—sometimes indispensable help toward the very acceptance of the Christian faith.” As per most modern editions, the Standard Ebooks edition collects all three volumes in one.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; was a Scottish writer who was also a Christian minister. While his writing career focused mostly on fantasy works, he also wrote several theological works, including &lt;i&gt;Unspoken Sermons&lt;/i&gt;, which was published in three volumes from 1867–1889.&lt;/p&gt;
+			&lt;p&gt;In it, MacDonald lays out his vision of God. In his view, God is fundamentally a loving father to all humanity, working to purify people from their sin so that they are as good as God himself. A consequence of this is that all people will eventually be saved—which was a controversial teaching in the churches where he preached, making him unpopular with church leaders.&lt;/p&gt;
+			&lt;p&gt;In other sermons, MacDonald deals with more practical topics like riches, prayer, and wrestling with spiritual doubt.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Unspoken Sermons&lt;/i&gt; was a profound influence on &lt;a href="https://standardebooks.org/ebooks/c-s-lewis"&gt;C. S. Lewis&lt;/a&gt;, who said, “My own debt to this book is almost as great as one man can owe to another: and nearly all serious inquirers to whom I have introduced it acknowledge that it has given them great help—sometimes indispensable help toward the very acceptance of the Christian faith.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9057</dc:source>
 		<dc:source>https://archive.org/details/unspokensermonsf0001macd</dc:source>
 		<dc:source>https://archive.org/details/unspokensermonsf0000macd</dc:source>
 		<dc:source>https://archive.org/details/1889epeaapteraun00macduoft</dc:source>
-		<meta property="se:production-notes">In some sermons, there were missing quotation marks that were printer's errors--i. e., the original page scans contained the error. The missing quotation marks have been added based on the best judgment of the producer. The following sermons had missing quotations: "The Cause of Spiritual Stupidity," "The Last Farthing," "Freedom," "Justice," "Righteousness."</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">175421</meta>
+		<meta property="se:reading-ease.flesch">71.18</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_unspoken-sermons</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
