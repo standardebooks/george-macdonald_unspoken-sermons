@@ -35,7 +35,7 @@
 		<meta property="term" refines="#subject-1">sh95008501</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:abstract>George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.</dc:abstract>
+		<meta property="schema:abstract">George MacDonald presents a set of interlocking sermons designed to shape the perception and life of the Christian disciple.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt; was a Scottish writer who was also a Christian minister. While his writing career focused mostly on fantasy works, he also wrote several theological works, including &lt;i&gt;Unspoken Sermons&lt;/i&gt;, which was published in three volumes from 1867–1889.&lt;/p&gt;
 			&lt;p&gt;In it, MacDonald lays out his vision of God. In his view, God is fundamentally a loving father to all humanity, working to purify people from their sin so that they are as good as God himself. A consequence of this is that all people will eventually be saved—which was a controversial teaching in the churches where he preached, making him unpopular with church leaders.&lt;/p&gt;
